@@ -1,0 +1,32 @@
+Assets/ExternalAssets/Modern Bedroom 2/Models/Materials/exterior.mat
+Assets/ExternalAssets/
+Assets/Ciconia Studio/
+Assets/itseez3d_misc
+Assets/itseez3d_prefabs
+Assets/Lakhbir
+Assets/MagicMirror
+Assets/obj
+Assets/SimpleLOD
+Assets/TeslaCar
+Assets/Admix
+Assets/AssetBundles/
+Assets/Extensions
+Assets/Standard Assets
+Assets/Xmas*
+Assets/*.asset
+Assets/*.fbx
+Assets/UniversalMediaPlayer
+Assets/Scenes/City 1.unity
+Assets/Scenes/City 19-9eve.unity
+Assets/Models
+Assets/GoogleVR
+AssetBundles
+Assets/itseez3d
+Library/
+PackagesAndAssets
+Temp
+obj
+.vs/
+*.apk
+Assets/Editor
+Assets/Editor.meta
