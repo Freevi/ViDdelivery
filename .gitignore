@@ -1,32 +1,33 @@
-Assets/ExternalAssets/Modern Bedroom 2/Models/Materials/exterior.mat
-Assets/ExternalAssets/
-Assets/Ciconia Studio/
-Assets/itseez3d_misc
-Assets/itseez3d_prefabs
-Assets/Lakhbir
-Assets/MagicMirror
-Assets/obj
-Assets/SimpleLOD
-Assets/TeslaCar
-Assets/Admix
-Assets/AssetBundles/
-Assets/Extensions
-Assets/Standard Assets
-Assets/Xmas*
-Assets/*.asset
-Assets/*.fbx
-Assets/UniversalMediaPlayer
-Assets/Scenes/City 1.unity
-Assets/Scenes/City 19-9eve.unity
-Assets/Models
-Assets/GoogleVR
-AssetBundles
-Assets/itseez3d
-Library/
-PackagesAndAssets
-Temp
-obj
-.vs/
-*.apk
-Assets/Editor
-Assets/Editor.meta
+virse_app/Assets/ExternalAssets/Modern Bedroom 2/Models/Materials/exterior.mat
+virse_app/Assets/ExternalAssets/
+virse_app/Assets/Ciconia Studio/
+virse_app/Assets/itseez3d_misc
+virse_app/Assets/itseez3d_prefabs
+virse_app/Assets/Lakhbir
+virse_app/Assets/MagicMirror
+virse_app/Assets/obj
+virse_app/Assets/SimpleLOD
+virse_app/Assets/TeslaCar
+virse_app/Assets/Admix
+virse_app/Assets/AssetBundles/
+virse_app/Assets/Extensions
+virse_app/Assets/Standard Assets
+virse_app/Assets/Xmas*
+virse_app/Assets/*.asset
+virse_app/Assets/*.fbx
+virse_app/Assets/UniversalMediaPlayer
+virse_app/Assets/Scenes/City 1.unity
+virse_app/Assets/Scenes/City 19-9eve.unity
+virse_app/Assets/Models
+virse_app/Assets/GoogleVR
+virse_app/AssetBundles
+virse_app/Assets/itseez3d
+virse_app/Library/
+virse_app/PackagesAndAssets
+virse_app/Temp
+virse_app/obj
+virse_app/.vs/
+virse_app/*.apk
+virse_app/Assets/Editor
+virse_app/Assets/Editor.meta
+virse_app/Assets/Plugins/iOS/WikitudeSDK.framework/WikitudeSDK
