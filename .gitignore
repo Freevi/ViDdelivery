@@ -31,3 +31,4 @@ virse_app/*.apk
 virse_app/Assets/Editor
 virse_app/Assets/Editor.meta
 virse_app/Assets/Plugins/iOS/WikitudeSDK.framework/WikitudeSDK
+virse_app/Assets/AgoraEngine/Plugins/iOS/AgoraRtcEngineKit.framework/AgoraRtcEngineKit
